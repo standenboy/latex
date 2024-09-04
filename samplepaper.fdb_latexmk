@@ -1,0 +1,21 @@
+# Fdb version 4
+["latex"] 1725481955.62572 "samplepaper.tex" "samplepaper.dvi" "samplepaper" 1725481960.18977 2
+  "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
+  "/usr/share/texmf-dist/tex/generic/iftex/iftex.sty" 1644112042 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
+  "/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty" 1572645307 1057 525c2192b5febbd8c1f662c9468335bb ""
+  "/usr/share/texmf-dist/tex/latex/base/article.cls" 1705352648 20144 147463a6a579f4597269ef9565205cfe ""
+  "/usr/share/texmf-dist/tex/latex/base/size12.clo" 1705352648 8449 f07039d8e4e89f21078d9b5137579bfc ""
+  "/usr/share/texmf-dist/tex/latex/geometry/geometry.sty" 1578002852 41601 9cf6c5257b1bc7af01a58859749dd37a ""
+  "/usr/share/texmf-dist/tex/latex/graphics/keyval.sty" 1654720880 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1725481928.53032 39447 2134d78a2da0cee52270db0ec417a200 ""
+  "/var/lib/texmf/web2c/pdftex/latex.fmt" 1725481894.63732 6800785 f8872b258f81a66fd1f5abd66e3056cb ""
+  "samplepaper.aux" 1725481175.00634 227 42b2e7ba702593f3788d114c301228ff "latex"
+  "samplepaper.tex" 1725481943.66432 424 066586ee8dc5ab7ce36ce76bfa36cff0 ""
+  "titlesec.sty" 0 -1 0 ""
+  "titling.sty" 0 -1 0 ""
+  (generated)
+  "samplepaper.aux"
+  "samplepaper.dvi"
+  "samplepaper.log"
+  (rewritten before read)
